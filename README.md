@@ -36,3 +36,20 @@ Workflow :
 <p align="center">
   <img src="assests/outliers_handling.png"/>
 </p>
+
+## Exploratory Data Analysis
+
+1. Individuals with an extended credit history tend to attain higher credit ratings.
+<p align="center">
+  <img src="assests/eda1.png"/>
+</p>
+
+2. The most significant harm to your credit score occurs when you make a payment after the due date of the billing cycle has elapsed.
+<p align="center">
+  <img src="assests/eda2.png"/>
+</p>
+
+3. The decrease in your credit score is directly proportional to the number of credit inquiries made.
+<p align="center">
+  <img src="assests/eda3.png"/>
+</p>
