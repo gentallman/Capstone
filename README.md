@@ -12,3 +12,9 @@ We took data from Statso. It is a Data Science Community to Find Case Studies, D
 
 Data : https://statso.io/credit-score-classification-case-study/
 
+Workflow :
+<p align="center">
+  <img src="assests/workflow.png"/>
+</p>
+
+## Data Cleaning
