@@ -101,7 +101,7 @@ The Resp {} begins by gathering data from the real world, after which scaler s
 ## Streamlit Web Application:
 
 <p align="center">
-  <img src="assests/code2.png"/>
+  <img src="assests/csc_system.png"/>
 </p>
 
 ## Challenges
