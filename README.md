@@ -113,7 +113,7 @@ Faced with challenges that are comparable to dummy data:
 - Overfitting: data has many characteristics, which may overfit the model to the training data and perform poorly on new data.
 - Model selection: it requires careful consideration of the best model for the classification task, as certain models are better for particular types of data than others.
 
-## Let's review what I learned
+## Let's review what our insights says :
 
 When calculating credit scores, Neither FICO nor Our System consider :
 - Age, SSN, ethnicity, color, religion, national origin, sex, or marital status. 
