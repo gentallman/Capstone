@@ -1,6 +1,5 @@
-<p align="center">
-  <h1>Credit Score Classification</h1>
-</p>
+<h1 align="center">Credit Score Classification</h1>
+
 
 At the present time, everyone needs to have good credit because it is seen as a sign of trustworthiness. Financial institutions and credit card issuers use credit scores to determine creditworthiness. It enables banks and credit card companies to issue loans to customers with excellent creditworthiness immediately. 
 
@@ -126,3 +125,12 @@ In summary, maintaining a higher credit rating is closely tied to having a lengt
 </p>
 
 
+## Contact
+
+Author: Smit Rana
+
+LinkedIn: https://www.linkedin.com/in/smit98rana/
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
